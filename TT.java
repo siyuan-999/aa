@@ -59,6 +59,7 @@ public class TT {
             }
             }
         System.out.println("Total Guess =" + TotalGuess);
+        // 123456
         System.out.println("Total Games =" + TotalGames );
         // this is the comment
     }
